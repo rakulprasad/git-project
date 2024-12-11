@@ -1,0 +1,6 @@
+// splice array will replace(modify) the original array
+let arr = [23,45,12,67,4,8,9];
+arr.splice(index,count(deleat),element);
+arr.splice(2,2,21,76);
+
+console.log(arr);
